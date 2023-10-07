@@ -11,6 +11,7 @@ body {
   min-height: 100vh;
   margin: 0;
   font-family: plus-jakarta-sans, Arial;
+  font-weight: 500;
 }
 
 img {
@@ -43,6 +44,22 @@ img {
   margin: 3px;
   background-color: hsl(211, 68%, 94%);
   border-radius: 10px;
+}
+
+.name, .post, .club {
+  font-weight: 800;
+}
+
+.name, .club, .post, .notif-content, .read-all:hover {
+  cursor: pointer;
+}
+
+.post {
+  color: hsl(219, 12%, 42%);
+}
+
+.club {
+  color: hsl(219, 85%, 26%);
 }
 
 .notif-content {
