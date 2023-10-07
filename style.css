@@ -35,6 +35,14 @@ body {
   border-radius: 10px;
 }
 
+.notif-content {
+  background-color: white;
+  border: 2px solid hsl(205, 33%, 90%);
+  border-radius: 5px;
+  padding: 5px;
+  margin: 4px;
+}
+
 .attribution { 
   font-size: 11px; text-align: center; 
 }
