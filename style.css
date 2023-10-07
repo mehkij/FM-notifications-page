@@ -42,7 +42,7 @@ img {
   width: 600px;
   padding: 6px;
   margin: 3px;
-  background-color: hsl(211, 68%, 94%);
+  background-color: hsl(210, 60%, 98%);
   border-radius: 10px;
 }
 
@@ -80,6 +80,10 @@ img {
   border-radius: 5px;
   padding: 5px;
   margin: 4px;
+}
+
+.notif-content:hover {
+  background-color: hsl(211, 68%, 94%);
 }
 
 .attribution { 
