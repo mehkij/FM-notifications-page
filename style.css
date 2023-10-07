@@ -46,6 +46,10 @@ img {
   border-radius: 10px;
 }
 
+.time {
+  color: hsl(219, 14%, 63%);
+}
+
 .name, .post, .club {
   font-weight: 800;
 }
