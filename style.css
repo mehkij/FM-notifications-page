@@ -27,6 +27,14 @@ body {
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
 }
 
+.notification {
+  width: 600px;
+  padding: 6px;
+  margin: 3px;
+  background-color: hsl(211, 68%, 94%);
+  border-radius: 10px;
+}
+
 .attribution { 
   font-size: 11px; text-align: center; 
 }
