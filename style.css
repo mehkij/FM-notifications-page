@@ -17,6 +17,7 @@ body {
 
 img {
   width: 45px;
+  height: 45px;
 }
 
 .flex-container {
@@ -40,6 +41,9 @@ img {
 }
 
 .notification {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
   width: 600px;
   padding: 6px;
   margin: 3px;
