@@ -8,6 +8,7 @@ body {
   flex-direction: column;
   align-items: center;
   background-color: hsl(210, 60%, 98%);
+  color: hsl(219, 12%, 42%);
   min-height: 100vh;
   margin: 0;
   font-family: plus-jakarta-sans, Arial;
@@ -56,6 +57,10 @@ img {
 
 .name, .club, .post, .notif-content, .read-all:hover {
   cursor: pointer;
+}
+
+.name {
+  color: black;
 }
 
 .post {
